@@ -1,0 +1,56 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "85ba6ec8910570ccfee2b8541d8dea56db9d05f29f83d64a882486372f8c3875"
+    }
+  ],
+  "containerPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/SwiftUI-Weather.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Products",
+      "derivedDataPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex/Previews/SwiftUI-Weather/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex/Previews/SwiftUI-Weather/Intermediates.noindex",
+          "SYMROOT" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex/Previews/SwiftUI-Weather/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

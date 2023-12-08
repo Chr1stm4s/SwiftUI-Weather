@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2955F6DD-E7A6-4041-A0B2-AB74016E945D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2955F6DD-E7A6-4041-A0B2-AB74016E945D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-Weather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-Weather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>timeStartedRecording</key>
+			<real>723746618.78524494</real>
+			<key>timeStoppedRecording</key>
+			<real>723746638.29214597</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>2955F6DD-E7A6-4041-A0B2-AB74016E945D</string>
+		</dict>
+		<key>9E66249E-F814-4464-940C-A924957B9AC0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E66249E-F814-4464-940C-A924957B9AC0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>SwiftUI-Weather project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>SwiftUI-Weather</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>timeStartedRecording</key>
+			<real>723746282.85824394</real>
+			<key>timeStoppedRecording</key>
+			<real>723746317.48018897</real>
+			<key>title</key>
+			<string>Build for Previews SwiftUI-Weather</string>
+			<key>uniqueIdentifier</key>
+			<string>9E66249E-F814-4464-940C-A924957B9AC0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,58 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "85ba6ec8910570ccfee2b8541d8dea56db9d05f29f83d64a882486372f8c3875"
+    }
+  ],
+  "containerPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/SwiftUI-Weather.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Build/Products",
+      "pchPath" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

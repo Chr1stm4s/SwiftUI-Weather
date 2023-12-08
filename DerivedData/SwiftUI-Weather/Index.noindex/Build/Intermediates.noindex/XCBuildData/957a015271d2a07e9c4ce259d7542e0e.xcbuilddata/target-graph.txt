@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Target 'SwiftUI-Weather' in project 'SwiftUI-Weather' (no dependencies)
+Target 'SwiftUI-Weather' in project 'SwiftUI-Weather' (no dependencies)

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.9 (swiftlang-5.9.0.128.108 clang-1500.0.40.1)"
+options: "5990ebf1db585c833c4389e1e74501529e51a368ef4f2e0f3cf81880084b9618"
+build_start_time: [1702053838, 375644000]
+build_end_time: [1702053838, 398864000]
+inputs:
+  ? "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/SwiftUI-Weather.build/Debug-iphonesimulator/SwiftUI-Weather.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : !dirty [1702053824, 365961787]
+  "/Users/christmas/Desktop/Projects/SwiftUI-Weather/SwiftUI-Weather/ContentView.swift": !dirty [1702053464, 529028596]
+  "/Users/christmas/Desktop/Projects/SwiftUI-Weather/SwiftUI-Weather/SwiftUI_WeatherApp.swift": !dirty [1702053464, 518678291]

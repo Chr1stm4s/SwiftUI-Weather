@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Target 'SwiftUI-WeatherUITests' in project 'SwiftUI-Weather' (no dependencies)
+Target 'SwiftUI-WeatherUITests' in project 'SwiftUI-Weather'
+➜ Explicit dependency on target 'SwiftUI-Weather' in project 'SwiftUI-Weather'
+Target 'SwiftUI-WeatherUITests' in project 'SwiftUI-Weather'
+➜ Explicit dependency on target 'SwiftUI-Weather' in project 'SwiftUI-Weather'
+Target 'SwiftUI-WeatherTests' in project 'SwiftUI-Weather' (no dependencies)
+Target 'SwiftUI-WeatherTests' in project 'SwiftUI-Weather'
+➜ Explicit dependency on target 'SwiftUI-Weather' in project 'SwiftUI-Weather'
+Target 'SwiftUI-WeatherTests' in project 'SwiftUI-Weather'
+➜ Explicit dependency on target 'SwiftUI-Weather' in project 'SwiftUI-Weather'
+Target 'SwiftUI-Weather' in project 'SwiftUI-Weather' (no dependencies)
+Target 'SwiftUI-Weather' in project 'SwiftUI-Weather' (no dependencies)

@@ -1,0 +1,15 @@
+{
+  "" : {
+    "dependencies" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/SwiftUI-Weather.build/Debug-maccatalyst/SwiftUI-WeatherUITests.build/Objects-normal/x86_64/SwiftUI-WeatherUITests-master.d",
+    "diagnostics" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/SwiftUI-Weather.build/Debug-maccatalyst/SwiftUI-WeatherUITests.build/Objects-normal/x86_64/SwiftUI-WeatherUITests-master.dia",
+    "emit-module-dependencies" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/SwiftUI-Weather.build/Debug-maccatalyst/SwiftUI-WeatherUITests.build/Objects-normal/x86_64/SwiftUI-WeatherUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/SwiftUI-Weather.build/Debug-maccatalyst/SwiftUI-WeatherUITests.build/Objects-normal/x86_64/SwiftUI-WeatherUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/christmas/Desktop/Projects/SwiftUI-Weather/DerivedData/SwiftUI-Weather/Index.noindex/Build/Intermediates.noindex/SwiftUI-Weather.build/Debug-maccatalyst/SwiftUI-WeatherUITests.build/Objects-normal/x86_64/SwiftUI-WeatherUITests-master.swiftdeps"
+  },
+  "/Users/christmas/Desktop/Projects/SwiftUI-Weather/SwiftUI-WeatherUITests/SwiftUI_WeatherUITests.swift" : {
+
+  },
+  "/Users/christmas/Desktop/Projects/SwiftUI-Weather/SwiftUI-WeatherUITests/SwiftUI_WeatherUITestsLaunchTests.swift" : {
+
+  }
+}
